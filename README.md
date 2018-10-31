@@ -1,4 +1,4 @@
-# exercices-boucles-et-tableau
+# exercices-boucle-et-tableau
 
 Objectifs à atteindre samedi 27 octobre :
 
