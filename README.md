@@ -29,12 +29,19 @@ Entre guillemets : mots clés.
 7. Résultat attendu dans la console :
 
 N
+
 a
+
 t
+
 h
+
 a
+
 l
+
 i
+
 e
 
 #################################################################################################
@@ -52,13 +59,21 @@ e
 4. Résultat attendu dans la console (test intermédiaire pour vérifier que ça fonctionne pareil après modifications du code (refactoring) :
 
 From an array of chars:
+
 N
+
 a
+
 t
+
 h
+
 a
+
 l
+
 i
+
 e
 
 5. Écrire une nouvelle méthode avec les mêmes modificateurs (private static) et le même type de retour (void) que printFirstnameArray() mais 
@@ -73,22 +88,39 @@ e
 10. Résultat attendu :
 
 From an array of chars:
+
 N
+
 a
+
 t
+
 h
+
 a
+
 l
+
 i
+
 e
+
 From a String object:
+
 N
+
 a
+
 t
+
 h
+
 a
+
 l
+
 i
+
 e
 
 #################################################################################################
